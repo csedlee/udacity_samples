@@ -13,7 +13,8 @@ vega_datasets==0.7.0
 watermark==2.0.1
 
 2. add Jupyter notebook and requirements.txt to Github
-
+ jupyter.org/try
+ 
 3. build and launch the Binder repository
     mybinder.org
     <> URL: https://github.com/csedlee/udacity_samples
