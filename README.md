@@ -26,9 +26,12 @@ watermark==2.0.1
 3. build and launch the Binder repository
 
     mybinder.org
-    <> URL: https://github.com/csedlee/udacity_samples
-    <> Git branch: master
-    <> notebook file: prep_terrain_data.ipynb 
+    
+<> URL: https://github.com/csedlee/udacity_samples
+    
+<> Git branch: master
+    
+<> notebook file: prep_terrain_data.ipynb 
 
 4. copy the binder link 
 
