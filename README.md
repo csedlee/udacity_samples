@@ -25,7 +25,7 @@ watermark==2.0.1
  
 3. build and launch the Binder repository
 
-    mybinder.org
+    https://mybinder.org/
     
 <> URL: https://github.com/csedlee/udacity_samples
     
