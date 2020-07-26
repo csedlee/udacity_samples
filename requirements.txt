@@ -7,3 +7,4 @@ vega==2.6.0
 vega_datasets==0.7.0
 watermark==2.0.1
 python-dateutil==2.8.1    # via matplotlib, pandas
+matplotlib==3.2.1
