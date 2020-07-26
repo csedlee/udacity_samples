@@ -4,12 +4,19 @@
 1. create requirements.txt
 
 wget==3.2
+
 pandas==0.25.1
+
 numpy==1.17.2
+
 geopy==1.20.0
+
 altair==3.2.0
+
 vega==2.6.0
+
 vega_datasets==0.7.0
+
 watermark==2.0.1
 
 2. add Jupyter notebook and requirements.txt to Github
