@@ -34,8 +34,9 @@ watermark==2.0.1
 <> notebook file: prep_terrain_data.ipynb 
 
 4. copy the binder link 
+>>> https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=studentMain_001.ipynb
 
-    https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=prep_terrain_data.ipynb
+https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=prep_terrain_data.ipynb
 
 https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=ClassifyNB.ipynb
 
